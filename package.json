@@ -11,6 +11,6 @@
   "scripts": {
     "server": "json-server --watch db.json --port 8000 --middlewares ./range.js",
     "client": "yarn server --prefix learn-admin --port 8000",
-    "auth-server": "node server.js"
+    "start": "node server.js"
   }
 }
