@@ -15,8 +15,12 @@
   }, 
   "author": "t-bello",
   "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
     "server": "json-server --watch db.json --port 8000 --middlewares ./range.js",
     "client": "yarn server --prefix learn-admin --port 8000",
     "start": "node server.js"
+  },
+  "engines": {
+    "node": "14.x"
   }
 }
