@@ -1,0 +1,1017 @@
+{
+  "posts": [
+	{
+		"comments": [],
+		"shares": 0,
+		"images": [],
+		"_id": "6060de85c9791620707908f4",
+		"title": "When is course registration closing for Unilag?",
+		"postType": "Regular",
+		"sector": "General",
+		"author": {
+			"_id": "6060dd5dc9791620707908c7",
+			"email": "the.real.el.honrado@gmail.com",
+			"userName": "El_Honrado"
+		},
+		"likes": [],
+		"options": [],
+		"createdAt": "2021-03-28T19:52:37.483Z",
+		"updatedAt": "2021-03-28T19:52:37.483Z",
+		"__v": 0
+	},
+	{
+		"comments": [],
+		"shares": 0,
+		"images": [],
+		"_id": "6060de85c9791620707908f5",
+		"question": "Poll: Who is the best rapper in Africa",
+		"postType": "Poll",
+		"sector": "General",
+		"options": [
+			{
+				"votes": 0,
+				"voters": [],
+				"_id": "6060de85c9791620707908f6",
+				"name": "MI Abaga"
+			},
+			{
+				"votes": 0,
+				"voters": [],
+				"_id": "6060de85c9791620707908f7",
+				"name": "Nasty C"
+			},
+			{
+				"votes": 0,
+				"voters": [],
+				"_id": "6060de85c9791620707908f8",
+				"name": "Sarkodie"
+			},
+			{
+				"votes": 0,
+				"voters": [],
+				"_id": "6060de85c9791620707908f9",
+				"name": "Reminisce"
+			}
+		],
+		"pollExpiryDate": "2021-03-28T19:52:28.000Z",
+		"author": {
+			"_id": "6060dd5dc9791620707908c7",
+			"email": "the.real.el.honrado@gmail.com",
+			"userName": "El_Honrado"
+		},
+		"likes": [],
+		"createdAt": "2021-03-28T19:52:37.509Z",
+		"updatedAt": "2021-03-28T19:52:37.509Z",
+		"__v": 0
+	},
+	{
+		"comments": [],
+		"shares": 0,
+		"images": [],
+		"_id": "6060de86c9791620707908fa",
+		"title": "Buy your data at subsidized rates Mtn, Glo, Aitel...",
+		"postType": "Regular",
+		"sector": "General",
+		"author": {
+			"_id": "6060dd5dc9791620707908c7",
+			"email": "the.real.el.honrado@gmail.com",
+			"userName": "El_Honrado"
+		},
+		"likes": [],
+		"options": [],
+		"createdAt": "2021-03-28T19:52:38.130Z",
+		"updatedAt": "2021-03-28T19:52:38.130Z",
+		"__v": 0
+	},
+	{
+		"comments": [],
+		"shares": 0,
+		"images": [],
+		"_id": "60f57ff69ceae800158ef007",
+		"title": "Heralding a working API!",
+		"postType": "Regular",
+		"sector": "General",
+		"likes": [],
+		"options": [],
+		"createdAt": "2021-07-19T13:36:54.522Z",
+		"updatedAt": "2021-07-19T13:36:54.522Z",
+		"__v": 0
+	}
+  ],
+  "users": [
+    {
+      "id": "u1",
+      "userRole":2,
+      "username":"eleganzaboy",
+      "name": "Olowolagbalu Agbadanla",
+      "email": "webmaster@bakgiyam.com",
+      "time_created": "24 May 2021 11:53"
+    },
+    {
+      "id": "u2",
+      "userRole": 1,
+      "username":"hnbhfghnbv",
+      "name": "Michael Jackson",
+      "email": "mosesidowu95@gmail.com",
+      "time_created": "24 May 2021 11:53"
+    },
+    {
+      "id": "u3",
+      "userRole": "1",
+      "username":"kujhmjb",
+      "name": "Olusegun Obasanjo",
+      "email": "webmaster@bakgiyam.com",
+      "time_created": "24 May 2021 11:53"
+    }
+  ],
+  "products":[
+	{
+		"feedbacks": [],
+		"images": [
+			"6060e5549a32442064ff583e",
+			"6060e5549a32442064ff583f"
+		],
+		"adStatus": "Active",
+		"_id": "6060e5579a32442064ff5844",
+		"title": "Diamond Hostel",
+		"school": "UNILAG",
+		"price": "350000",
+		"delivery": true,
+		"author": {
+			"_id": "6060dd5dc9791620707908c7",
+			"email": "the.real.el.honrado@gmail.com",
+			"userName": "El_Honrado"
+		},
+		"category": {
+			"_id": "6060dda7c9791620707908c8",
+			"name": "Accommodation"
+		},
+		"createdAt": "2021-03-28T20:21:43.977Z",
+		"updatedAt": "2021-03-28T20:21:43.977Z",
+		"__v": 0,
+		"categoryName": "Accommodation",
+		"paymentPeriod": "Year",
+		"type": "one man room",
+		"bedrooms": "1",
+		"bathrooms": "1",
+		"toilets": "1",
+		"generator": "true",
+		"airConditioner": "true",
+		"studyRoom": "true",
+		"tvRoom": "true",
+		"wi-fi": "true",
+		"furnished": "true",
+		"description": "randomo description with lorem ipsum",
+		"address": "25, Unilag Road, Abule-Oja Bus-Stop, Yaba, Lagos"
+	},
+	{
+		"feedbacks": [],
+		"images": [
+			"6060e5549a32442064ff583c",
+			"6060e5549a32442064ff583d"
+		],
+		"adStatus": "Active",
+		"_id": "6060e5589a32442064ff5845",
+		"title": "High Rise",
+		"school": "UNILAG",
+		"price": "350000",
+		"delivery": true,
+		"author": {
+			"_id": "6060dd5dc9791620707908c7",
+			"email": "the.real.el.honrado@gmail.com",
+			"userName": "El_Honrado"
+		},
+		"category": {
+			"_id": "6060dda7c9791620707908c8",
+			"name": "Accommodation"
+		},
+		"createdAt": "2021-03-28T20:21:44.015Z",
+		"updatedAt": "2021-03-28T20:21:44.015Z",
+		"__v": 0,
+		"categoryName": "Accommodation",
+		"paymentPeriod": "Year",
+		"type": "one man room",
+		"bedrooms": "1",
+		"bathrooms": "1",
+		"toilets": "1",
+		"generator": "true",
+		"airConditioner": "true",
+		"studyRoom": "true",
+		"tvRoom": "true",
+		"wi-fi": "true",
+		"furnished": "true",
+		"description": "randomo description with lorem ipsum",
+		"address": "25, Unilag Road, Abule-Oja Bus-Stop, Yaba, Lagos"
+	},
+	{
+		"feedbacks": [],
+		"images": [
+			"6060e5549a32442064ff5840",
+			"6060e5549a32442064ff5841"
+		],
+		"adStatus": "Active",
+		"_id": "6060e5589a32442064ff5846",
+		"title": "Ozolua",
+		"school": "UNILAG",
+		"price": "350000",
+		"delivery": true,
+		"author": {
+			"_id": "6060dd5dc9791620707908c7",
+			"email": "the.real.el.honrado@gmail.com",
+			"userName": "El_Honrado"
+		},
+		"category": {
+			"_id": "6060dda7c9791620707908c8",
+			"name": "Accommodation"
+		},
+		"createdAt": "2021-03-28T20:21:44.160Z",
+		"updatedAt": "2021-03-28T20:21:44.160Z",
+		"__v": 0,
+		"categoryName": "Accommodation",
+		"paymentPeriod": "Year",
+		"type": "one man room",
+		"bedrooms": "1",
+		"bathrooms": "1",
+		"toilets": "1",
+		"generator": "true",
+		"airConditioner": "true",
+		"studyRoom": "true",
+		"tvRoom": "true",
+		"wi-fi": "true",
+		"furnished": "true",
+		"description": "randomo description with lorem ipsum",
+		"address": "25, Unilag Road, Abule-Oja Bus-Stop, Yaba, Lagos"
+	},
+	{
+		"feedbacks": [],
+		"images": [
+			"6060e5549a32442064ff5842",
+			"6060e5549a32442064ff5843"
+		],
+		"adStatus": "Active",
+		"_id": "6060e5589a32442064ff5847",
+		"title": "Mirabel Hostel",
+		"school": "UNILAG",
+		"price": "350000",
+		"delivery": true,
+		"author": {
+			"_id": "6060dd5dc9791620707908c7",
+			"email": "the.real.el.honrado@gmail.com",
+			"userName": "El_Honrado"
+		},
+		"category": {
+			"_id": "6060dda7c9791620707908c8",
+			"name": "Accommodation"
+		},
+		"createdAt": "2021-03-28T20:21:44.213Z",
+		"updatedAt": "2021-03-28T20:21:44.213Z",
+		"__v": 0,
+		"categoryName": "Accommodation",
+		"paymentPeriod": "Year",
+		"type": "one man room",
+		"bedrooms": "1",
+		"bathrooms": "1",
+		"toilets": "1",
+		"generator": "true",
+		"airConditioner": "false",
+		"studyRoom": "true",
+		"tvRoom": "true",
+		"wi-fi": "true",
+		"furnished": "false",
+		"description": "randomo description with lorem ipsum",
+		"address": "25, Unilag Road, Abule-Oja Bus-Stop, Yaba, Lagos"
+	},
+	{
+		"feedbacks": [
+			{
+				"replies": [],
+				"_id": "6060e8a1346b9c001526197e",
+				"message": "Berryville hostel was nice when i went there",
+				"feedbackStatus": "Positive",
+				"author": "6060dd5dc9791620707908c7",
+				"product": "6060e54b9a32442064ff583b",
+				"likes": [],
+				"createdAt": "2021-03-28T20:35:46.017Z",
+				"updatedAt": "2021-03-28T20:35:46.017Z",
+				"__v": 0
+			}
+		],
+		"images": [
+			"6060e5479a32442064ff5839",
+			"6060e5479a32442064ff583a"
+		],
+		"adStatus": "Active",
+		"_id": "6060e54b9a32442064ff583b",
+		"title": "Berryville Hostel",
+		"school": "UNILAG",
+		"price": "350000",
+		"delivery": true,
+		"author": {
+			"_id": "6060dd5dc9791620707908c7",
+			"email": "the.real.el.honrado@gmail.com",
+			"userName": "El_Honrado"
+		},
+		"category": {
+			"_id": "6060dda7c9791620707908c8",
+			"name": "Accommodation"
+		},
+		"createdAt": "2021-03-28T20:21:31.430Z",
+		"updatedAt": "2021-03-28T20:35:46.072Z",
+		"__v": 0,
+		"categoryName": "Accommodation",
+		"paymentPeriod": "Year",
+		"type": "one man room",
+		"bedrooms": "1",
+		"bathrooms": "1",
+		"toilets": "1",
+		"generator": "true",
+		"airConditioner": "true",
+		"studyRoom": "true",
+		"tvRoom": "true",
+		"wi-fi": "true",
+		"furnished": "true",
+		"description": "randomo description with lorem ipsum",
+		"address": "25, Unilag Road, Abule-Oja Bus-Stop, Yaba, Lagos"
+	}
+  ],
+  "categories": [
+    {
+			"subcategory": [],
+			"products": [],
+			"_id": "6060dda7c9791620707908c8",
+			"name": "Accommodation",
+			"index": 1,
+			"__v": 0
+		},
+		{
+			"subcategory": [
+				{
+					"products": [],
+					"_id": "6060dde5c9791620707908d6",
+					"name": "Tablets",
+					"category": "6060dda7c9791620707908ca",
+					"createdAt": "2021-03-28T19:49:57.528Z",
+					"updatedAt": "2021-03-28T19:49:57.528Z",
+					"__v": 0
+				},
+				{
+					"products": [],
+					"_id": "6060dde5c9791620707908d5",
+					"name": "Headphones",
+					"category": "6060dda7c9791620707908ca",
+					"createdAt": "2021-03-28T19:49:57.522Z",
+					"updatedAt": "2021-03-28T19:49:57.522Z",
+					"__v": 0
+				},
+				{
+					"products": [],
+					"_id": "6060dde5c9791620707908d8",
+					"name": "Power Banks",
+					"category": "6060dda7c9791620707908ca",
+					"createdAt": "2021-03-28T19:49:57.537Z",
+					"updatedAt": "2021-03-28T19:49:57.537Z",
+					"__v": 0
+				},
+				{
+					"products": [],
+					"_id": "6060dde5c9791620707908db",
+					"name": "Speakers",
+					"category": "6060dda7c9791620707908ca",
+					"createdAt": "2021-03-28T19:49:57.561Z",
+					"updatedAt": "2021-03-28T19:49:57.561Z",
+					"__v": 0
+				},
+				{
+					"products": [],
+					"_id": "6060dde5c9791620707908de",
+					"name": "Mobile Phones",
+					"category": "6060dda7c9791620707908ca",
+					"createdAt": "2021-03-28T19:49:57.909Z",
+					"updatedAt": "2021-03-28T19:49:57.909Z",
+					"__v": 0
+				},
+				{
+					"products": [],
+					"_id": "6060dde5c9791620707908dd",
+					"name": "Other Phones Accessories",
+					"category": "6060dda7c9791620707908ca",
+					"createdAt": "2021-03-28T19:49:57.904Z",
+					"updatedAt": "2021-03-28T19:49:57.904Z",
+					"__v": 0
+				}
+			],
+			"products": [],
+			"_id": "6060dda7c9791620707908ca",
+			"index": 2,
+			"name": "Phones, Tablets & Accessories",
+			"__v": 0
+		},
+		{
+			"subcategory": [],
+			"products": [],
+			"_id": "6060dda7c9791620707908ce",
+			"name": "Events & Parties",
+			"index": 7,
+			"__v": 0
+		},
+		{
+			"subcategory": [
+				{
+					"products": [],
+					"_id": "6060dde6c9791620707908e9",
+					"name": "Hair Care",
+					"category": "6060dda7c9791620707908cd",
+					"createdAt": "2021-03-28T19:49:58.148Z",
+					"updatedAt": "2021-03-28T19:49:58.148Z",
+					"__v": 0
+				},
+				{
+					"products": [],
+					"_id": "6060dde6c9791620707908ea",
+					"name": "Skin Care",
+					"category": "6060dda7c9791620707908cd",
+					"createdAt": "2021-03-28T19:49:58.155Z",
+					"updatedAt": "2021-03-28T19:49:58.155Z",
+					"__v": 0
+				},
+				{
+					"products": [],
+					"_id": "6060dde6c9791620707908ef",
+					"name": "Make Up",
+					"category": "6060dda7c9791620707908cd",
+					"createdAt": "2021-03-28T19:49:58.180Z",
+					"updatedAt": "2021-03-28T19:49:58.180Z",
+					"__v": 0
+				},
+				{
+					"products": [],
+					"_id": "6060dde6c9791620707908f0",
+					"name": "Perfumes",
+					"category": "6060dda7c9791620707908cd",
+					"createdAt": "2021-03-28T19:49:58.440Z",
+					"updatedAt": "2021-03-28T19:49:58.440Z",
+					"__v": 0
+				},
+				{
+					"products": [],
+					"_id": "6060dde6c9791620707908f1",
+					"name": "Bath & Body",
+					"category": "6060dda7c9791620707908cd",
+					"createdAt": "2021-03-28T19:49:58.444Z",
+					"updatedAt": "2021-03-28T19:49:58.444Z",
+					"__v": 0
+				}
+			],
+			"products": [],
+			"_id": "6060dda7c9791620707908cd",
+			"index": 6,
+			"name": "Health & Beauty",
+			"__v": 0
+		},
+		{
+			"subcategory": [
+				{
+					"products": [],
+					"_id": "6060dde5c9791620707908d9",
+					"name": "Past Questions",
+					"category": "6060dda7c9791620707908c9",
+					"createdAt": "2021-03-28T19:49:57.546Z",
+					"updatedAt": "2021-03-28T19:49:57.546Z",
+					"__v": 0
+				},
+				{
+					"products": [],
+					"_id": "6060dde5c9791620707908d7",
+					"name": "TextBooks",
+					"category": "6060dda7c9791620707908c9",
+					"createdAt": "2021-03-28T19:49:57.533Z",
+					"updatedAt": "2021-03-28T19:49:57.533Z",
+					"__v": 0
+				},
+				{
+					"products": [],
+					"_id": "6060dde5c9791620707908da",
+					"name": "Novels",
+					"category": "6060dda7c9791620707908c9",
+					"createdAt": "2021-03-28T19:49:57.557Z",
+					"updatedAt": "2021-03-28T19:49:57.557Z",
+					"__v": 0
+				},
+				{
+					"products": [],
+					"_id": "6060dde5c9791620707908dc",
+					"name": "Other Books",
+					"category": "6060dda7c9791620707908c9",
+					"createdAt": "2021-03-28T19:49:57.569Z",
+					"updatedAt": "2021-03-28T19:49:57.569Z",
+					"__v": 0
+				}
+			],
+			"products": [],
+			"_id": "6060dda7c9791620707908c9",
+			"index": 3,
+			"name": "Books",
+			"__v": 0
+		},
+		{
+			"subcategory": [
+				{
+					"products": [],
+					"_id": "6060dde5c9791620707908df",
+					"name": "Photo & Video Cameras",
+					"category": "6060dda7c9791620707908cc",
+					"createdAt": "2021-03-28T19:49:57.914Z",
+					"updatedAt": "2021-03-28T19:49:57.914Z",
+					"__v": 0
+				},
+				{
+					"products": [],
+					"_id": "6060dde5c9791620707908e0",
+					"name": "Computer Accessories",
+					"category": "6060dda7c9791620707908cc",
+					"createdAt": "2021-03-28T19:49:57.918Z",
+					"updatedAt": "2021-03-28T19:49:57.918Z",
+					"__v": 0
+				},
+				{
+					"products": [],
+					"_id": "6060dde5c9791620707908e2",
+					"name": "Laptops",
+					"category": "6060dda7c9791620707908cc",
+					"createdAt": "2021-03-28T19:49:57.935Z",
+					"updatedAt": "2021-03-28T19:49:57.935Z",
+					"__v": 0
+				},
+				{
+					"products": [],
+					"_id": "6060dde5c9791620707908e1",
+					"name": "Storage Devices",
+					"category": "6060dda7c9791620707908cc",
+					"createdAt": "2021-03-28T19:49:57.929Z",
+					"updatedAt": "2021-03-28T19:49:57.929Z",
+					"__v": 0
+				},
+				{
+					"products": [],
+					"_id": "6060dde6c9791620707908e6",
+					"name": "Laptops",
+					"category": "6060dda7c9791620707908cc",
+					"createdAt": "2021-03-28T19:49:58.134Z",
+					"updatedAt": "2021-03-28T19:49:58.134Z",
+					"__v": 0
+				},
+				{
+					"products": [],
+					"_id": "6060dde6c9791620707908e8",
+					"name": "Software",
+					"category": "6060dda7c9791620707908cc",
+					"createdAt": "2021-03-28T19:49:58.142Z",
+					"updatedAt": "2021-03-28T19:49:58.142Z",
+					"__v": 0
+				},
+				{
+					"products": [],
+					"_id": "6060dde6c9791620707908ec",
+					"name": "Videos Games",
+					"category": "6060dda7c9791620707908cc",
+					"createdAt": "2021-03-28T19:49:58.166Z",
+					"updatedAt": "2021-03-28T19:49:58.166Z",
+					"__v": 0
+				},
+				{
+					"products": [],
+					"_id": "6060dde6c9791620707908ed",
+					"name": "Networking Products",
+					"category": "6060dda7c9791620707908cc",
+					"createdAt": "2021-03-28T19:49:58.170Z",
+					"updatedAt": "2021-03-28T19:49:58.170Z",
+					"__v": 0
+				},
+				{
+					"products": [],
+					"_id": "6060dde6c9791620707908ee",
+					"name": "Video Game Console",
+					"category": "6060dda7c9791620707908cc",
+					"createdAt": "2021-03-28T19:49:58.175Z",
+					"updatedAt": "2021-03-28T19:49:58.175Z",
+					"__v": 0
+				}
+			],
+			"products": [],
+			"_id": "6060dda7c9791620707908cc",
+			"index": 5,
+			"name": "Electronics",
+			"__v": 0
+		},
+		{
+			"subcategory": [
+				{
+					"products": [],
+					"_id": "6060dde5c9791620707908e3",
+					"name": "Shoes",
+					"category": "6060dda7c9791620707908cb",
+					"createdAt": "2021-03-28T19:49:57.939Z",
+					"updatedAt": "2021-03-28T19:49:57.939Z",
+					"__v": 0
+				},
+				{
+					"products": [],
+					"_id": "6060dde5c9791620707908e4",
+					"name": "Clothing",
+					"category": "6060dda7c9791620707908cb",
+					"createdAt": "2021-03-28T19:49:57.945Z",
+					"updatedAt": "2021-03-28T19:49:57.945Z",
+					"__v": 0
+				},
+				{
+					"products": [],
+					"_id": "6060dde5c9791620707908e5",
+					"name": "Watches",
+					"category": "6060dda7c9791620707908cb",
+					"createdAt": "2021-03-28T19:49:57.950Z",
+					"updatedAt": "2021-03-28T19:49:57.950Z",
+					"__v": 0
+				},
+				{
+					"products": [],
+					"_id": "6060dde6c9791620707908e7",
+					"name": "Clothing Accessories",
+					"category": "6060dda7c9791620707908cb",
+					"createdAt": "2021-03-28T19:49:58.138Z",
+					"updatedAt": "2021-03-28T19:49:58.138Z",
+					"__v": 0
+				}
+			],
+			"products": [],
+			"_id": "6060dda7c9791620707908cb",
+			"index": 4,
+			"name": "Fashion",
+			"__v": 0
+		},
+		{
+			"subcategory": [],
+			"products": [],
+			"_id": "6060dda7c9791620707908d0",
+			"name": "Tutorials & Training",
+			"index": 8,
+			"__v": 0
+		},
+		{
+			"subcategory": [],
+			"products": [],
+			"_id": "6060dda7c9791620707908d2",
+			"name": "Part Time jobs",
+			"index": 11,
+			"__v": 0
+		},
+		{
+			"subcategory": [],
+			"products": [],
+			"_id": "6060dda7c9791620707908d1",
+			"name": "Scholarships",
+			"index": 7,
+			"__v": 0
+		},
+		{
+			"subcategory": [
+				{
+					"products": [],
+					"_id": "6060dde6c9791620707908eb",
+					"name": "Arts & Crafts",
+					"category": "6060dda8c9791620707908d4",
+					"createdAt": "2021-03-28T19:49:58.162Z",
+					"updatedAt": "2021-03-28T19:49:58.162Z",
+					"__v": 0
+				},
+				{
+					"products": [],
+					"_id": "6060dde6c9791620707908f2",
+					"name": "Board Games",
+					"category": "6060dda8c9791620707908d4",
+					"createdAt": "2021-03-28T19:49:58.638Z",
+					"updatedAt": "2021-03-28T19:49:58.638Z",
+					"__v": 0
+				},
+				{
+					"products": [],
+					"_id": "6060dde6c9791620707908f3",
+					"name": "Sports Equipment",
+					"category": "6060dda8c9791620707908d4",
+					"createdAt": "2021-03-28T19:49:58.849Z",
+					"updatedAt": "2021-03-28T19:49:58.849Z",
+					"__v": 0
+				}
+			],
+			"products": [],
+			"_id": "6060dda8c9791620707908d4",
+			"index": 12,
+			"name": "Art, Board Games & Sports Equipment",
+			"__v": 0
+		},
+		{
+			"subcategory": [],
+			"products": [],
+			"_id": "6060dda8c9791620707908d3",
+			"name": "Services",
+			"index": 10,
+			"__v": 0
+		},
+		{
+			"subcategory": [
+				{
+					"products": [],
+					"_id": "6060dde5c9791620707908d6",
+					"name": "Tablets",
+					"category": "6060dda7c9791620707908ca",
+					"createdAt": "2021-03-28T19:49:57.528Z",
+					"updatedAt": "2021-03-28T19:49:57.528Z",
+					"__v": 0
+				},
+				{
+					"products": [],
+					"_id": "6060dde5c9791620707908d5",
+					"name": "Headphones",
+					"category": "6060dda7c9791620707908ca",
+					"createdAt": "2021-03-28T19:49:57.522Z",
+					"updatedAt": "2021-03-28T19:49:57.522Z",
+					"__v": 0
+				},
+				{
+					"products": [],
+					"_id": "6060dde5c9791620707908d8",
+					"name": "Power Banks",
+					"category": "6060dda7c9791620707908ca",
+					"createdAt": "2021-03-28T19:49:57.537Z",
+					"updatedAt": "2021-03-28T19:49:57.537Z",
+					"__v": 0
+				},
+				{
+					"products": [],
+					"_id": "6060dde5c9791620707908db",
+					"name": "Speakers",
+					"category": "6060dda7c9791620707908ca",
+					"createdAt": "2021-03-28T19:49:57.561Z",
+					"updatedAt": "2021-03-28T19:49:57.561Z",
+					"__v": 0
+				},
+				{
+					"products": [],
+					"_id": "6060dde5c9791620707908de",
+					"name": "Mobile Phones",
+					"category": "6060dda7c9791620707908ca",
+					"createdAt": "2021-03-28T19:49:57.909Z",
+					"updatedAt": "2021-03-28T19:49:57.909Z",
+					"__v": 0
+				},
+				{
+					"products": [],
+					"_id": "6060dde5c9791620707908dd",
+					"name": "Other Phones Accessories",
+					"category": "6060dda7c9791620707908ca",
+					"createdAt": "2021-03-28T19:49:57.904Z",
+					"updatedAt": "2021-03-28T19:49:57.904Z",
+					"__v": 0
+				}
+			],
+			"products": [],
+			"_id": "6060dda7c9791620907908ca",
+			"index": 13,
+			"name": "Sporting Equipment",
+			"__v": 0
+		},
+		{
+			"subcategory": [],
+			"products": [],
+			"_id": "610d9d64b67def0015a23cf4",
+			"name": "Community",
+			"index": 0,
+			"__v": 0
+		},
+		{
+			"subcategory": [],
+			"products": [],
+			"_id": "610db411b8b83b00156c9590",
+			"name": "Restaurant & Food Services",
+			"index": 11,
+			"__v": 0
+		}
+  ],
+  "active-users-metrics": [
+  {
+    "name": "Page A",
+    "uv": 4000,
+    "pv": 2400
+  },
+  {
+    "name": "Page B",
+    "uv": 3000,
+    "pv": 1398
+  },
+  {
+    "name": "Page C",
+    "uv": 2000,
+    "pv": 9800
+  },
+  {
+    "name": "Page D",
+    "uv": 2780,
+    "pv": 3908
+  },
+  {
+    "name": "Page E",
+    "uv": 1890,
+    "pv": 4800
+  },
+  {
+    "name": "Page F",
+    "uv": 2390,
+    "pv": 3800
+  }
+  ], 
+  "users-by-school": [
+      {
+        "id": "us1s",
+        "school": "University of Lagos(UNILAG)",
+        "state": "Lagos",
+        "num_users": "543"
+      },
+      {
+        "id": "us2s",
+        "school": "Federal University of Technology Minna (FUTMINNA)",
+        "state" : "Niger",
+        "num_users": "967"
+      },
+      {
+        "id": "us3s",
+        "school": "Micheal Otedola College of Primary Education(UNILAG)",
+        "state": "Lagos",
+        "num_users": "645"
+      },
+      {
+        "id": "us4s",
+        "school": "Yaba College of Technology (YCT)",
+        "state": "Lagos",
+        "num_users": "500"
+      }
+  ],
+  "adverts-by-school": [
+    {
+      "id":"ad1s",
+      "school":"University of Lagos (UNILAG)",
+      "state": "Lagos",
+      "num-adverts": "543"
+    },
+    {
+      "id": "ad2s",
+      "school":"Federal University of Technology(FUTMINA)",
+      "state": "Lagos",
+      "num-adverts": "543"
+    },
+    {
+      "id": "ad3s",
+      "school":"Micheal Otedola College of Primary Education(MOCPED)",
+      "state": "Lagos",
+      "num-adverts": "667"
+    },
+    {
+      "id": "ad4s",
+      "school": "Yaba College of Technology(YCT)",
+      "state": "Lagos",
+      "num-adverts": "545"
+    }
+  ],
+  "active-users": [
+    {
+			"userRole": 0,
+			"following": 0,
+			"_id": "6060dd5dc9791620707908c7",
+			"firstName": "El",
+			"lastName": "Honrado",
+			"profilePics": "https://lh6.googleusercontent.com/-Q9uhCWCm9BU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnNpLoCK7OxF5uk9t-S2hBRDYpS9w/s96-c/photo.jpg",
+			"email": "the.real.el.honrado@gmail.com",
+			"userName": "El_Honrado"
+		},
+		{
+			"userRole": 2,
+			"following": 0,
+			"_id": "60f9538e2f9c510015cca49b",
+			"firstName": "Oyinkansola",
+			"lastName": "Babatunde",
+			"profilePics": "https://lh3.googleusercontent.com/a/AATXAJx7yEZHOoHpFsPXdyf9j5fj04gjzM1cF11Vkh0g=s96-c",
+			"email": "oyinkansolababatunde30@gmail.com",
+			"userName": "Oyinkansola_Babatunde"
+		},
+		{
+			"userRole": 1,
+			"following": 0,
+			"_id": "611cd981daa59c0015c92639",
+			"firstName": "Ahmed",
+			"lastName": "Lawal",
+			"profilePics": "https://lh3.googleusercontent.com/a-/AOh14GhFWO-KAjcYOCGkE13UUQ1qjXD0uhSFsQAAEBJPog=s96-c",
+			"email": "ahmeddapo0110@gmail.com",
+			"userName": "Ahmed_Lawal"
+		},
+		{
+			"userRole": 0,
+			"following": 0,
+			"_id": "622bb98df350f9001674a81d",
+			"firstName": "Faithful",
+			"lastName": "Olaleru",
+			"profilePics": "https://lh3.googleusercontent.com/a-/AOh14GjTHu2eMODSl9zBO-Y8b6BaJhmmGXYQny8n1XfU=s96-c",
+			"email": "faithfulolaleru09@gmail.com",
+			"userName": "Faithful_Olaleru"
+		},
+		{
+			"userRole": 2,
+			"following": 0,
+			"_id": "6230c7df072bf00016016296",
+			"firstName": "Bello",
+			"lastName": "Oluwatomisin",
+			"profilePics": "https://lh3.googleusercontent.com/a-/AOh14GgMDq3S80xsomp5yzh-wY2F40jsZl1fsQnehew6Lw=s96-c",
+			"email": "bello4aus@gmail.com",
+			"userName": "Bello_Oluwatomisin"
+		}
+  ],
+  "suspended-users": [
+	{
+		"userRole": 0,
+		"following": 0,
+		"_id": "6060dd5dc9791620707908c7",
+		"firstName": "El",
+		"lastName": "Honrado",
+		"profilePics": "https://lh6.googleusercontent.com/-Q9uhCWCm9BU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnNpLoCK7OxF5uk9t-S2hBRDYpS9w/s96-c/photo.jpg",
+		"email": "the.real.el.honrado@gmail.com",
+		"userName": "El_Honrado"
+	},
+	{
+		"userRole": 2,
+		"following": 0,
+		"_id": "60f9538e2f9c510015cca49b",
+		"firstName": "Oyinkansola",
+		"lastName": "Babatunde",
+		"profilePics": "https://lh3.googleusercontent.com/a/AATXAJx7yEZHOoHpFsPXdyf9j5fj04gjzM1cF11Vkh0g=s96-c",
+		"email": "oyinkansolababatunde30@gmail.com",
+		"userName": "Oyinkansola_Babatunde"
+	},
+	{
+		"userRole": 1,
+		"following": 0,
+		"_id": "611cd981daa59c0015c92639",
+		"firstName": "Ahmed",
+		"lastName": "Lawal",
+		"profilePics": "https://lh3.googleusercontent.com/a-/AOh14GhFWO-KAjcYOCGkE13UUQ1qjXD0uhSFsQAAEBJPog=s96-c",
+		"email": "ahmeddapo0110@gmail.com",
+		"userName": "Ahmed_Lawal"
+	},
+	{
+		"userRole": 0,
+		"following": 0,
+		"_id": "622bb98df350f9001674a81d",
+		"firstName": "Faithful",
+		"lastName": "Olaleru",
+		"profilePics": "https://lh3.googleusercontent.com/a-/AOh14GjTHu2eMODSl9zBO-Y8b6BaJhmmGXYQny8n1XfU=s96-c",
+		"email": "faithfulolaleru09@gmail.com",
+		"userName": "Faithful_Olaleru"
+	},
+	{
+		"userRole": 2,
+		"following": 0,
+		"_id": "6230c7df072bf00016016296",
+		"firstName": "Bello",
+		"lastName": "Oluwatomisin",
+		"profilePics": "https://lh3.googleusercontent.com/a-/AOh14GgMDq3S80xsomp5yzh-wY2F40jsZl1fsQnehew6Lw=s96-c",
+		"email": "bello4aus@gmail.com",
+		"userName": "Bello_Oluwatomisin"
+	}
+  ],
+  "community-topics": [
+	  {
+		  "id" : "ad1s",
+		  "topic": "General",
+		  "type": "Text",
+		  "description" : "Crime, Romance, Family, Culture, Education, Religion, Politics, Travel, Health, Job Listings, Career etc.",
+		  "posts": "45"
+	  },
+	  {
+		"id" : "ad2s",
+		"topic": "Business",
+		"type": "Text",
+		"description": "Start ups, Career, Agriculture, Investment",
+		"posts": "5"
+	},
+	{
+		"id" : "ad3s",
+		"topic": "Entertainment",
+		"type": "Text",
+		"description" : "TV, Movies, Music, Celebrity Gist, Events, Clubbing,Fashion, Gaming, Art etc.",
+		"posts": "3"
+	},
+	{
+		"id" : "ad4s",
+		"topic": "Poll",
+		"type": "Poll",
+		"description" : "Create a poll where users can vote one of out of a maximum of four options you pose to them",
+		"posts": "5"
+	}
+  ]
+}
