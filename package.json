@@ -1,26 +1,24 @@
 {
-  "name": "json-server",
-  "version": "1.0.0",
-  "description": "This is a fake json server",
-  "keywords": [
-    "heroku",
-    "fake-json"
-  ],
-  "main": "index.js",
-  "license": "MIT",
-  "dependencies": {
-    "body-parser": "^1.19.2",
-    "json-server": "^0.17.0",
-    "jsonwebtoken": "^8.5.1"
-  }, 
-  "author": "t-bello",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "server": "json-server --watch db.json --port 8000 --middlewares ./range.js",
-    "client": "yarn server --prefix learn-admin --port 8000",
-    "start": "node server.js"
-  },
-  "engines": {
-    "node": "14.x"
+    "name": "json-server",
+    "version": "1.0.0",
+    "description": "This is a fake json server",
+    "keywords": [
+      "heroku",
+      "fake-json"
+    ],
+    "main": "index.js",
+    "license": "MIT",
+    "dependencies": {
+      "body-parser": "^1.19.2",
+      "json-server": "^0.17.0",
+      "jsonwebtoken": "^8.5.1"
+    }, 
+    "author": "t-bello",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "server": "json-server --watch db.json --port 8000 --middlewares ./range.js",
+      "client": "yarn server --prefix learn-admin --port 8000",
+      "start": "node server.js"
+    }
   }
-}
+  

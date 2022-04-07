@@ -5,7 +5,7 @@ const jwt = require('jsonwebtoken')
 
 const server = jsonServer.create()
 const router = jsonServer.router('./db.json')
-const userdb = JSON.parse(fs.readFileSync('./auth.json', 'UTF-8'))
+const userdb = JSON.parse(fs.readFileSync('./db.json', 'UTF-8'))
 
 server.use(bodyParser.urlencoded({extended: true}))
 server.use(bodyParser.json())
@@ -43,7 +43,7 @@ server.post('/auth/register', (req, res) => {
     return
   }
 
-fs.readFile("./users.json", (err, data) => {  
+fs.readFile("./db.json", (err, data) => {  
     if (err) {
       const status = 401
       const message = err
