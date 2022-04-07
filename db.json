@@ -99,28 +99,48 @@
 	}
   ],
   "users": [
+	  {
+		"userRole": 2,
+		"following": 0,
+		"id": "6230c7df072bf00016016296",
+		"firstName": "Bello",
+		"lastName": "Oluwatomisin",
+		"profilePics": "https://lh3.googleusercontent.com/a-/AOh14GgMDq3S80xsomp5yzh-wY2F40jsZl1fsQnehew6Lw=s96-c",
+		"email": "bello4aus@gmail.com",
+		"password": "web",
+		"userName": "Bello_Oluwatomisin"
+	},
     {
       "id": "u1",
       "userRole":2,
       "username":"eleganzaboy",
-      "name": "Olowolagbalu Agbadanla",
-      "email": "webmaster@bakgiyam.com",
+      "firstName": "Olowolagbalu",
+	  "lastName": "Agbadanla",
+      "email": "webmaster99@gmail.com",
+	  "profilePics": "https://lh3.googleusercontent.com/a-/AOh14GgMDq3S80xsomp5yzh-wY2F40jsZl1fsQnehew6Lw=s96-c",
+	  "password": "web",
       "time_created": "24 May 2021 11:53"
     },
     {
       "id": "u2",
       "userRole": 1,
       "username":"hnbhfghnbv",
-      "name": "Michael Jackson",
+      "firstName": "Michael",
+	  "lastName": "Jackson",
       "email": "mosesidowu95@gmail.com",
+	  "password": "web",
+	  "profilePics": "https://lh3.googleusercontent.com/a-/AOh14GgMDq3S80xsomp5yzh-wY2F40jsZl1fsQnehew6Lw=s96-c",
       "time_created": "24 May 2021 11:53"
     },
     {
       "id": "u3",
       "userRole": "1",
       "username":"kujhmjb",
-      "name": "Olusegun Obasanjo",
+      "firstName": "Olusegun",
+	  "lastName": "Obasanjo",
       "email": "webmaster@bakgiyam.com",
+	  "profilePics": "https://lh3.googleusercontent.com/a-/AOh14GgMDq3S80xsomp5yzh-wY2F40jsZl1fsQnehew6Lw=s96-c",
+	  "password": "web",
       "time_created": "24 May 2021 11:53"
     }
   ],
